@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 48ac6c69813fa6f4387c27f7fa42bea1
+guid: f261ab26be3ff0a47a3214cd5b0786c7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4548899413104297997
-    second: SoundOff (1)_0
+      213: -3888624616014915824
+    second: Flower5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SoundOff (1)_0
+      name: Flower5_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 260
-        height: 260
+        x: 119
+        y: 30
+        width: 242
+        height: 370
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f77feab5101fd0c0800000000000000
-      internalID: -4548899413104297997
+      spriteID: 0175799b384d80ac0800000000000000
+      internalID: -3888624616014915824
       vertices: []
       indices: 
       edges: []
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SoundOff (1)_0: -4548899413104297997
+      Flower5_0: -3888624616014915824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

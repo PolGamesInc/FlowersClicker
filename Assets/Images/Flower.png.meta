@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1ce79d315cdef7241b29e536b383271e
+guid: 2f0c247626306a04082d780fa0e99110
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -142,10 +142,10 @@ TextureImporter:
       name: Flower_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 332
-        height: 652
+        x: 135
+        y: 38
+        width: 242
+        height: 370
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

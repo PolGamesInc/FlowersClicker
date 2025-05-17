@@ -81,6 +81,15 @@ public class ClickerSystem : MonoBehaviour
             CountScore -= CountLevelUp;
             CountLevelUp = CountLevelUp + 100;
             MainFlower.GetComponent<Image>().sprite = Flowers[Random.Range(0, Flowers.Length)];
+            for (int i = 0; i < PanelShop.Length; i++)
+            {
+                PanelShop[i].SetActive(false);
+            }
+
+            for (int i = 0; i < GamePanel.Length; i++)
+            {
+                GamePanel[i].SetActive(true);
+            }
         }
         else
         {
